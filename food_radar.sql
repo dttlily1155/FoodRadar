@@ -134,7 +134,7 @@ INSERT INTO `user` (`id`, `fullname`, `email`, `password`, `role`, `status`, `cr
 (1, 'Nguyễn Văn A', 'user1@gmail.com', '$2y$10$zKwxHhlOd.8CLKkn0zHjg.EVGkmNkymsO2F/xfGW7ixLYSz2/a7bO', 'user', 'active', '2025-11-18 06:37:58', '2025-11-18 06:37:58'),
 (2, 'Nguyễn Văn B', 'user2@gmail.com', '$2y$10$OdhcWeim8vhptQPp8rjMnuNJqGHNb1eMaUzadnR72rEh.Cr3H.Rc2', 'user', 'active', '2025-11-18 06:38:58', '2025-11-18 06:38:58'),
 (3, 'Nguyễn Văn C', 'user3@gmail.com', '$2y$10$/DP.vBkSfwsTi.X0iNd.SuAGlcELTOxtosepONob6kTR7KMTAbZIS', 'user', 'active', '2025-11-18 07:10:56', '2025-11-18 07:10:56'),
-(4, 'Administrator', 'admin@foodradar.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin', 'active', '2025-11-18 06:37:58', '2025-11-18 06:37:58');
+(4, 'Administrator', 'admin@gmail.com', '$2y$10$/DP.vBkSfwsTi.X0iNd.SuAGlcELTOxtosepONob6kTR7KMTAbZIS', 'admin', 'active', '2025-11-18 06:37:58', '2025-11-18 06:37:58');
 
 --
 -- Indexes for dumped tables
