@@ -1,4 +1,4 @@
-## Cấu trúc dự án
+## Cấu trúc dự án FoodRadar
 
 ```
 FoodRadar/
